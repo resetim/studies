@@ -1,0 +1,68 @@
+Character types
+
+1 - char
+2 - signed
+3 - unsigned
+
+char - represent character data in C language programs. 
+
+Primary (bult_in) datatype
+
+void - nothing. no value
+int
+char
+double
+float
+
+Derived dat type
+
+array
+pointers
+
+User defined data type
+
+structure 
+union
+enumeration
+
+Void - no value (nothing).
+used in functions 
+
+Char - store one character (one bit)
+
+range - maximum or minimum value that can be stored inside the variable type
+
+range = -128 to 127 = 256 values
+
+2**8 = 256
+
+Fuction types - derived types
+
+function type declarations:
+
+int f(void);
+int *fip();
+void g(int i, int j);
+void h(int, int);
+
+Derived type - types that are constructed frm other types. 
+
+Pointer types - derived from function or object type that it points to called the referend type.
+
+Example 
+
+int *ip
+char *cp;
+void *vp;
+
+
+
+
+
+
+
+
+
+
+
+

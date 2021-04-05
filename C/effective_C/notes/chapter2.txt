@@ -1,0 +1,7 @@
+Chapter 2
+
+Objects types 
+
+_Bool - store only the values 0 and 1.
+
+
